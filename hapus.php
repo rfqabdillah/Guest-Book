@@ -23,7 +23,7 @@
 		<nav>
 			<div class="nav">
 				<ul>
-					<li><a href="awal.html">Beranda</a></li>
+					<li><a href="index.php">Beranda</a></li>
 					<li><a href="menu.html">Prak 10</a></li>
 					<li><a href="data.php">Lihat Data</a></li>
 				</ul>
@@ -32,7 +32,7 @@
 
 		<div class="text-awal3">
 			<h1>File Berhasil Dihapus</h1>
-            <a href="awal.html" class="button-btn">Kembali</a>
+            <a href="index.php" class="button-btn">Kembali</a>
             </form>
             </center>
         </div>
